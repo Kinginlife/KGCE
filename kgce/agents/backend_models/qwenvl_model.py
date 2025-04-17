@@ -47,14 +47,6 @@ class QwenVLModel(BackendModel):
         self.token_usage: int = 0
         self.chat_history: list[list[ChatCompletionMessage | dict]] = []
         self.support_tool_call = True
-        # 阿里云 OSS 配置
-        oss_access_key_id = "LTAI5tSkJEeRQ1yqaPMGCJoK"
-        oss_access_key_secret = "iCtFQvcnTor0UexxjYtlAII05WUQVv"
-        oss_endpoint = "oss-cn-wuhan-lr.aliyuncs.com"  # 修改为不带 https:// 的域名
-        oss_bucket_name = "kgce2025"
-        # 初始化 Bucket 对象
-        auth = oss2.Auth(oss_access_key_id, oss_access_key_secret)
-        self.bucket = oss2.Bucket(auth, oss_endpoint, oss_bucket_name)
 
 
     def reset(self, system_message: str, action_space: list[Action] | None) -> None:
