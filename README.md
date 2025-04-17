@@ -25,7 +25,7 @@ KGCE is a Python - centric framework designed to construct benchmark environment
 pip install requirements.txt
 ```
 
-## Experiment on CRAB-Benchmark-v0
+## Experiment on KGCE
 
 All datasets and experiment code are in [kgce-benchmark](./kgce-benchmark/) directory. 
 
