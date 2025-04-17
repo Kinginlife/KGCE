@@ -7,8 +7,7 @@
 </p>
 
 ## Overview
-
-CRAB is a framework for building LLM agent benchmark environments in a Python-centric way.
+KGCE is a framework for building LLM agent benchmark environments in a Python-centric way.
 
 #### Key Features
 
@@ -31,12 +30,12 @@ CRAB is a framework for building LLM agent benchmark environments in a Python-ce
 - Python 3.10 or newer
 
 ```bash
-pip install crab-framework[client]
+pip install requirements.txt
 ```
 
 ## Experiment on CRAB-Benchmark-v0
 
-All datasets and experiment code are in [crab-benchmark-v0](./crab-benchmark-v0/) directory. Please carefully read the [benchmark tutorial](./crab-benchmark-v0/README.md) before using our benchmark.
+All datasets and experiment code are in [kgce-benchmark](./kgce-benchmark/) directory. 
 
 ## Examples
 
