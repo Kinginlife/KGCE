@@ -28,7 +28,10 @@ pip install requirements.txt
 ## Experiment on KGCE
 
 All datasets and experiment code are in [kgce-benchmark](./kgce-benchmark/) directory. 
-
+run
+```bash
+poetry run python -m kgce-benchmark.main --model qwenvl --model-base-url https://dashscope.aliyuncs.com/compatible-mode/v1 --env android --model-api-key XXX --task-id 069x
+```
 
 ## Demo Video
 
