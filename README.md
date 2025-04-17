@@ -1,8 +1,5 @@
 # KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models
 
-<p align="center">
-  <img src='https://raw.githubusercontent.com/camel-ai/crab/main/assets/CRAB_logo1.png' width=800>
-</p>
 
 ## Overview
 KGCE is a framework for building LLM agent benchmark environments in a Python-centric way.
@@ -48,8 +45,3 @@ python examples/multi_env.py
 ## Demo Video
 
 [![demo_video](https://i.ytimg.com/vi_webp/PNqrHNQlU6I/maxresdefault.webp)](https://www.youtube.com/watch?v=PNqrHNQlU6I&ab_channel=CamelAI)
-<<<<<<< HEAD
-=======
-
-
->>>>>>> dcaba711a4a42d1e36e25db72c3db3900892ce52
