@@ -1,0 +1,95 @@
+{
+  "Calendar": {
+    "首页": {
+      "description": "日历视图主界面，支持日程创建与日期导航",
+      "elements": {
+        "搜索按钮": {
+          "position": "页面右上方第一个按钮，图标是一个放大镜",
+          "description": "全局搜索功能"
+        },
+        "日历": {
+          "position": "导航栏下方",
+          "description": "网格化日期展示区域，支持周/月视图切换"
+        },
+        "添加记事按钮": {
+          "position": "页面右下角（悬浮）",
+          "description": "创建新的事件或任务，是一个加号图标",
+          "sub_elements": {
+            "Task": "创建新的任务，进入任务创建页面",
+            "Event":"创建新的事件，进入事件创建页面"
+          }
+        }
+      }
+    },
+    "任务创建页面": {
+      "description": "创建新的任务界面",
+      "elements": {
+        "close_button": {
+          "position": "页面左上角，是一个×图标",
+          "description": "返回主界面"
+        },
+        "save": {
+          "position": "页面右上角",
+          "description": "保存已经编辑好的任务"
+        },
+        "标题输入框": {
+          "position": "页面中部偏上方",
+          "description": "点击可以输入标题，没有输入时显示“Add Title”"
+        },
+        "类型选择栏": {
+          "position": "标题输入框下方",
+          "description": "可以选择编辑的类型，有三种类型可以选择：Event,Task,Birthday"
+        },
+        "全天开关": {
+          "description":"切换时间模式,默认为开启状态",
+          "position": "页面中部，类型选择栏下方"
+        },
+        "选择日期": {
+          "description": "点击后可以选择日期",
+          "position": "页面中部，全天开关下方"
+        },
+        "频率设置": {
+          "description":"可以选择频率设置，默认为“Does not Repeat”",
+          "position": "选择日期下方"
+        },
+        "添加细节": {
+          "description": "添加任务的细节，在未输入时显示为“Add detail”",
+          "position": "页面中下方，频率设置的下方"
+        }
+      }
+    },
+    "事件创建页面": {
+      "description": "创建新的事件的界面",
+      "elements": {
+        "close_button": {
+          "position": "页面左上角，是一个×图标",
+          "description": "返回主界面"
+        },
+        "save": {
+          "position": "页面右上角",
+          "description": "保存已经编辑好的任务"
+        },
+        "标题输入框": {
+          "position": "页面中部偏上方",
+          "description": "点击可以输入标题，没有输入时显示“Add Title”"
+        },
+        "类型选择栏": {
+          "position": "标题输入框下方",
+          "description": "可以选择编辑的类型，有三种类型可以选择：Event,Task,Birthday"
+        },
+        "全天开关": {
+          "description":"切换时间模式,默认为开启状态",
+          "position": "页面中部，类型选择栏下方"
+        },
+        "选择日期": {
+          "description": "点击后可以选择日期",
+          "position": "页面中部，全天开关下方"
+        },
+        "频率设置": {
+          "description":"可以选择频率设置，默认为“Does not Repeat”",
+          "position": "选择日期下方"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Gmail": {
+    "首页": {
+      "description": "邮件列表主界面，包含搜索和核心邮件展示功能",
+      "elements": {
+        "搜索框": {
+          "position": "区域居中",
+          "description": "支持邮件内容/发件人/标签的关键词搜索"
+        },
+        "邮件主体区": {
+          "position": "搜索区下方",
+          "description": "分页展示收件箱邮件列表，支持滑动交互操作"
+        },
+        "写邮件": {
+          "position": "页面右下角（悬浮）",
+          "description": "一个蓝色手写笔图标，进入电子邮件撰写界面"
+        }
+      }
+    },
+  "电子邮件编写页面": {
+    "description": "邮件编辑与发送功能界面",
+    "elements": {
+          "refresh_button": {
+            "position": "页面右上角第一个按钮",
+            "description": "一个曲别针的图标，点击后可以选择附件进行添加"
+          },
+          "send_button": {
+            "position": "页面右上角第二个按钮",
+            "description": "是一个纸飞机的图标，执行邮件发送并返回首页"
+          },
+          "more_options": {
+            "position": "页面右上角第三个按钮",
+            "description": "是一个三个竖点的图标,点击使用更多的功能"
+          },
+          "发件人栏": {
+            "position": "页面区域顶部",
+            "description": "显示发件人的邮箱"
+          },
+          "收件人栏": {
+            "position": "发件人栏下方",
+            "description": "填写收件人邮箱"
+          },
+          "主题栏": {
+            "position": "收件人栏下方",
+            "description": "填写邮件的title"
+          },
+          "正文编辑区": {
+            "position": "主题栏下方",
+            "description": "编辑邮件的内容"
+          }
+        }
+      }
+    }
+}

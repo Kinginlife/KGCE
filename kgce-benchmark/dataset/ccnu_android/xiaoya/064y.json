@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中查看\"习近平新时代中国特色社会主义思想概论\"课程的作业任务",
+    "tasks": [
+        {
+            "task": "check_course_task",
+            "attribute": {
+                "course": "习近平新时代中国特色社会主义思想概论"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "064y"
+}

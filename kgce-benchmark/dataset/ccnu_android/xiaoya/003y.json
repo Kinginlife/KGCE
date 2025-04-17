@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中查看\"自然语言处理\"课程的错题本",
+    "tasks": [
+        {
+            "task": "check_course_mistake",
+            "attribute": {
+                "course": "自然语言处理"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "003y"
+}

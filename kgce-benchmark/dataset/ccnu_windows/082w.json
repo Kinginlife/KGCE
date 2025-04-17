@@ -1,0 +1,12 @@
+{
+    "description": "在\"Chrome\"浏览器，进入华师小雅网页，地址为\"https://ccnu.ai-augmented.com/app/jx-web/mycourse\"，然后在\"笔记1\"中输入标题为“如何写好论文”。",
+    "tasks": [
+        {
+            "task": "chrome_xiaoya_write_document",
+            "attribute": {"title": "如何写好论文"},
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "082w"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "在小雅里我的文档中新建笔记，并写入内容今天学习了大数据技术的相关知识",
+    "tasks": [
+        {
+            "task": "xiaoya_write_document",
+            "attribute": {
+                "content": "今天学习了大数据技术的相关知识"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "017y"
+}

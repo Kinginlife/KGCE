@@ -1,0 +1,21 @@
+{
+  "description": "在安卓设备上，使用\"小雅智能助手\"软件查看大数据技术老师的联系方式，然后在 Windows 系统中使用\"Chrome\"导航到一站式服务平台，网址为“https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu”，然后我的邮件查看该老师的邮件。",
+  "tasks": [
+     {
+            "task": "find_contact",
+            "attribute": {
+                "course": "大数据技术"
+            },
+            "output": "2014980020"
+        },
+     {
+            "task": "check_mail_in_yizhanshi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu"
+            },
+            "output": null
+        }
+  ],
+  "adjlist": "0 1\n1",
+  "id": "095c"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "在windows上,打开Google Chrome 导航到\"https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu\"(一站式服务平台） 并且\"login in\"，然后进入\"我的邮件\"中查看邮件",
+    "tasks": [
+        {
+            "task": "check_mail_in_yizhanshi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "091w"
+}

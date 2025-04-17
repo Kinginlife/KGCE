@@ -1,0 +1,19 @@
+{
+    "description": "在安卓上, 使用\"华师匣子\"应用查看成绩并计算平均学分绩，然后使用\"Keep Notes\"应用记录计算结果",
+    "tasks": [
+        {
+            "task": "huashi_app_grade",
+            "attribute": {},
+            "output": "91.8396"
+        },
+        {
+            "task": "eb92a1e6-4c86-4d56-baac-95fc8397732e",
+            "attribute": {
+                "content": "平均学分绩为91.8396"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0 1\n1",
+    "id": "041xk"
+}

@@ -1,0 +1,12 @@
+{
+    "description": "打开\"Chrome\"浏览器，进入华师小雅文档网页，地址为\"https://ccnu.ai-augmented.com/app/jx-web/mynote/\"，点击\"新建笔记(3)\"，记录笔记内容。",
+    "tasks": [
+        {
+            "task": "chrome_xiaoya_check_document",
+            "attribute": {"title": "新建笔记(3)"},
+            "output": "软件有点慢"
+        }
+    ],
+    "adjlist": "0",
+    "id": "2025_3_16_chrome_xiaoya_check_document"
+}

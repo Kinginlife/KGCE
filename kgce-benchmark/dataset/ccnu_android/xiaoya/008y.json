@@ -1,0 +1,12 @@
+{
+    "description": "在小雅消息中心中的课程消息中查看课程相关消息",
+    "tasks": [
+        {
+            "task": "find_course_message",
+            "attribute": {},
+            "output": "10"
+        }
+    ],
+    "adjlist": "0",
+    "id": "008y"
+}

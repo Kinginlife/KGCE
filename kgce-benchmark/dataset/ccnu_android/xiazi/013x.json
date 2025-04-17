@@ -1,0 +1,14 @@
+{
+    "description": "在华师匣子的常用网站访问图书馆首页",
+    "tasks": [
+        {
+            "task": "huashi_app_site",
+            "attribute": {
+                "site": "华中师范大学图书馆"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "013x"
+}

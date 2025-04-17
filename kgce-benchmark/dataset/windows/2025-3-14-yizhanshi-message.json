@@ -1,0 +1,14 @@
+{
+    "description": "在windows上,打开Google Chrome 并且导航到\"https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu\"(一站式服务平台)并且\"login in\",然后进入\"消息中心\"中查看消息",
+    "tasks": [
+        {
+            "task": "check_message_in_yizhanshi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "2025-3-14-yizhanshi-message"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中查看\"软件工程\"课程的错题本",
+    "tasks": [
+        {
+            "task": "check_course_mistake",
+            "attribute": {
+                "course": "软件工程"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "052y"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "在小雅消息中心中的通讯录查看操作系统原理老师的联系方式",
+    "tasks": [
+        {
+            "task": "find_contact",
+            "attribute": {
+                "course": "操作系统原理"
+            },
+            "output": "2024691007"
+        }
+    ],
+    "adjlist": "0",
+    "id": "061y"
+}

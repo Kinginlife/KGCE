@@ -1,0 +1,14 @@
+{
+    "description": "在华师匣子中写意见反馈“软件有点卡”",
+    "tasks": [
+        {
+            "task": "huashi_app_advice",
+            "attribute": {
+                "content": "软件有点卡"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "069x"
+}

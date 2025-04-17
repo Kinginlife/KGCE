@@ -1,0 +1,12 @@
+{
+    "description": "在华师匣子中查看成绩并计算平均学分绩",
+    "tasks": [
+        {
+            "task": "huashi_app_grade",
+            "attribute": {},
+            "output": "91.8396"
+        }
+    ],
+    "adjlist": "0",
+    "id": "010x"
+}

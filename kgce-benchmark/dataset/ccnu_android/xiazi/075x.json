@@ -1,0 +1,12 @@
+{
+    "description": "在华师匣子中查询7号楼的空闲教室",
+    "tasks": [
+        {
+            "task": "huashi_app_classroom",
+            "attribute": {},
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "075x"
+}

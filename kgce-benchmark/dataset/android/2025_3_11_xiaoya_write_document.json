@@ -1,0 +1,12 @@
+{
+    "description": "在安卓上, 使用 \"小雅智能助手\" 应用,点开\"我的文档\"，在\"新建笔记\"中写入，标题为“对大模型的思考”，对大语言模型的出现带来的机遇与挑战的感想。",
+    "tasks": [
+        {
+            "task": "xiaoya_write_document",
+            "attribute": {"content": "对大模型的认识"},
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "2025_3_11_xiaoya_write_document"
+}

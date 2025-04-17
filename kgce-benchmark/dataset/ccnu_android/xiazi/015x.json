@@ -1,0 +1,14 @@
+{
+    "description": "在华师匣子中添加新课程人工智能导论",
+    "tasks": [
+        {
+            "task": "huashi_app_add_course",
+            "attribute": {
+                "course": "人工智能导论"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "015x"
+}

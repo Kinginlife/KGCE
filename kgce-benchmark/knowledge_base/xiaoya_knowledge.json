@@ -1,0 +1,215 @@
+{
+  "小雅APP": {
+    "首页": {
+      "description": "小雅APP主界面，包含核心功能入口和底部导航",
+      "elements": {
+            "我的课程": {
+              "position": "中部第一个按钮",
+              "description": "点击进入课程列表"
+            },
+            "我的文档": {
+              "position": "我的课程右侧的按钮",
+              "description": "点击访问个人文档"
+            },
+            "任务提醒": {
+              "position": "我的课程下方的按钮",
+              "description": "点击查看待办任务"
+            },
+            "发现": {
+              "position": "任务提醒右方的按钮",
+              "description": "点击探索新内容"
+            },
+            "底部导航栏": {
+              "position": "页面底部",
+              "sub_elements": {
+                "首页":"返回主界面",
+                "消息":"进入消息中心",
+                "我的":"访问个人中心"
+                }
+              }
+      }
+    },
+    "课程页面": {
+      "description": "展示当前学期课程列表的界面",
+      "elements": {
+        "课程列表": {
+          "position": "页面中部（可滚动区域）",
+          "description": "展示当前学期所有课程，点击一个课程可以进入该课程详情"
+          }
+        }
+    },
+    "课程详情页": {
+      "description": "单个课程的详细操作界面",
+      "elements": {
+            "作业任务": {
+              "position": "中间偏上方位置的最左侧第一个按钮",
+              "description": "进入作业任务页面"
+            },
+            "课程工具": {
+              "position": "作业任务右方的按钮",
+              "description": "打开教学辅助工具"
+            },
+            "分组": {
+              "position": "课程工具右方的按钮",
+              "description": "查看学习小组"
+            },
+            "我的学情": {
+              "position": "分组右方的按钮",
+              "description": "访问学习分析报告"
+            },
+            "课程内容区": {
+              "position": "功能按钮区的下方",
+              "description": "展示课程资料和教学内容"
+            }
+      }
+    },
+    "任务页面": {
+      "description": "课程作业任务界面",
+      "elements": {
+            "全部": {
+              "position": "最上方左侧第一个标签",
+              "description": "显示所有任务"
+            },
+            "自主观看": {
+              "position": "标签全部的右方，第二个标签",
+              "description": "显示自主观看任务"
+            },
+            "作业": {
+              "position": "标签3",
+              "description": "显示作业任务"
+            },
+            "课堂练习": {
+              "position": "标签4",
+              "description": "显示课堂练习任务"
+            },
+            "测验": {
+              "position": "标签5",
+              "description": "显示测验任务"
+            },
+            "问卷": {
+              "position": "标签6",
+              "description": "显示问卷任务"
+            },
+            "讨论": {
+              "position": "标签7",
+              "description": "显示讨论任务"
+            },
+            "示范": {
+              "position": "标签8",
+              "description": "显示示范任务"
+            },
+            "任务列表": {
+              "position": "标签栏下方",
+              "description": "显示对应分类的未完成任务"
+            }
+      }
+    },
+    "课程工具": {
+      "description": "课程相关功能工具集合",
+      "elements": {
+            "评价活动": {
+              "position": "页面中部",
+              "description": "参与课程评价"
+            },
+            "学生评教": {
+              "position": "评价活动下方",
+              "description": "进行教学反馈"
+            },
+            "私信": {
+              "position": "学生评教下方",
+              "description": "点击进入私信页面，私信老师或者查看通讯录",
+              "sub_elements": {
+
+              },
+            "错题本": {
+              "position": "私信的下方",
+              "description": "查看错题集"
+            }
+          }
+      }
+    },
+    "私信": {
+      "description": "通讯录页面，查看教师联系方式",
+      "elements": {
+        "私信按钮": {
+          "position": "最上方第一个按钮",
+          "description": "私信其他人"
+        },
+        "通讯录": {
+          "position": "私信下方的按钮",
+          "description": "查看通讯录，查看老师的联系方式"
+        }
+      }
+    },
+    "消息中心": {
+      "description": "系统消息通知中心",
+      "elements": {
+            "待办事项": {
+              "position": "页面最上方的第一个板块",
+              "description": "显示待办事项消息"
+            },
+            "课程消息": {
+              "position": "待办事项下方",
+              "description": "显示课程相关消息"
+            },
+            "个人消息": {
+              "position": "课程消息下方",
+              "description": "显示个人消息"
+            },
+            "系统消息": {
+              "position": "个人消息下方",
+              "description": "显示系统通知消息"
+            },
+            "私信": {
+              "position": "系统消息下方",
+              "description": "显示私信消息"
+            },
+            "通讯录": {
+              "position": "私信下方",
+              "description": "显示通讯录相关消息"
+            },
+            "底部导航栏": {
+              "position": "页面最底部",
+              "sub_elements": {
+                "首页":"返回主界面",
+                "消息":"进入消息中心",
+                "我的":"访问个人中心"
+                }
+            }
+        }
+      }
+    },
+    "个人中心": {
+      "description": "用户个人账户管理界面",
+      "elements": {
+        "个人年度报告": {
+          "position": "中部第一个板块",
+          "description": "查看个人年度学习报告"
+        },
+        "个人数据看板": {
+          "position": "个人年度报告下方",
+          "description": "查看个人数据统计"
+        },
+        "反馈&建议": {
+          "position": "个人数据看板下方",
+          "description": "提交反馈和建议"
+        },
+        "关于小雅": {
+          "position": "反馈和建议的下方",
+          "description": "查看关于小雅的信息"
+        },
+        "退出按钮": {
+          "position": "页面底部",
+          "description": "退出当前账号"
+        },
+        "底部导航栏": {
+              "position": "页面最底部",
+              "sub_elements": {
+                "首页":"返回主界面",
+                "消息":"进入消息中心",
+                "我的":"访问个人中心"
+                }
+        }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中\"编译原理\"课程的分组并加入分组",
+    "tasks": [
+        {
+            "task": "add-group",
+            "attribute": {
+                "course": "编译原理"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "066y"
+}

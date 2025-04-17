@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中查看\"智能系统与应用（机器人、无人驾驶等）\"课程的作业任务",
+    "tasks": [
+        {
+            "task": "check_course_task",
+            "attribute": {
+                "course": "智能系统与应用（机器人、无人驾驶等）"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "050y"
+}

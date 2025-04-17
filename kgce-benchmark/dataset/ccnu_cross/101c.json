@@ -1,0 +1,22 @@
+{
+  "description": "In the \"时钟\" app on Android, add 雅加达 time, compare it with the current city's time to determine the time gap，In windows,open Google Chrome and navigate to\"https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu\"(一站式服务平台) then login in,and 进入 \"DeepSeek\",询问 \"the reason of the time gap between Yakarta's time and current city's time \"",
+  "tasks": [
+      {
+            "task": "a3d11574-2acf-4b26-a569-a5dbc9d548ah",
+            "attribute": {
+                "place_name": "雅加达"
+            },
+            "output": "1 hour behind"
+        },
+    {
+            "task": "ask_deepseek_details_huashi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu",
+                "content": "the reason of the time gap between Yakarta's time and current city's time"
+            },
+            "output": "content"
+        }
+  ],
+  "adjlist": "0 1\n1",
+  "id": "101c"
+}

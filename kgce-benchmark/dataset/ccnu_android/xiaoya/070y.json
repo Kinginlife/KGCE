@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中查看\"大数据技术\"课程的资料和教学内容",
+    "tasks": [
+        {
+            "task": "check_some_course",
+            "attribute": {
+                "course": "大数据技术"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "070y"
+}

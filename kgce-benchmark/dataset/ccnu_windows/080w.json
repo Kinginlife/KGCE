@@ -1,0 +1,12 @@
+{
+    "description": "打开\"Chrome\"浏览器，进入华师小雅网页，地址为\"https://ccnu.ai-augmented.com/app/jx-web/mycourse\"，查看还未完成的任务。",
+    "tasks": [
+        {
+            "task": "chrome_xiaoya_tasks",
+            "attribute": {},
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "080w"
+}

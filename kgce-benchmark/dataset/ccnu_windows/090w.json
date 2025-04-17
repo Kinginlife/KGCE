@@ -1,0 +1,14 @@
+{
+    "description": "在windows上,打开Google Chrome 并且导航到\"https://www.icourse163.org/home.htm?userId=1534992482#/home/course\",然后进入\"马克思主义基本原理\"课程",
+    "tasks": [
+        {
+            "task": "check_makesi_in_mooc",
+            "attribute": {
+                "url": "https://www.icourse163.org/home.htm?userId=1534992482#/home/course"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "090w"
+}

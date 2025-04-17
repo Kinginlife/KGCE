@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"的消息中心中的通讯录查看大数据技术老师的联系方式",
+    "tasks": [
+        {
+            "task": "find_contact",
+            "attribute": {
+                "course": "大数据技术"
+            },
+            "output": "2014980020"
+        }
+    ],
+    "adjlist": "0",
+    "id": "007y"
+}

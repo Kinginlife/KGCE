@@ -1,0 +1,14 @@
+{
+    "description": "在安卓上, 使用\"时钟\" 应用，设置纽约的时间，检查该城市与当前城市的时间差",
+    "tasks": [
+        {
+            "task": "a3d11574-2acf-4b26-a569-a5dbc9d548ah",
+            "attribute": {
+                "place_name": "纽约"
+            },
+            "output": "12h"
+        }
+    ],
+    "adjlist": "0",
+    "id": "023cl"
+}

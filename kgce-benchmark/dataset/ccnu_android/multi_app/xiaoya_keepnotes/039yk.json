@@ -1,0 +1,19 @@
+{
+    "description": "在安卓上, 使用\"小雅智能助\"应用查看大数据技术课程相关消息，然后使用\"Keep Notes\"应用记录这些消息内容",
+    "tasks": [
+        {
+            "task": "find_course_message",
+            "attribute": {},
+            "output": "10"
+        },
+        {
+            "task": "eb92a1e6-4c86-4d56-baac-95fc8397732e",
+            "attribute": {
+                "content": "大数据技术课程相关消息"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0 1\n1",
+    "id": "039yk"
+}

@@ -1,0 +1,22 @@
+{
+    "description": "在安卓上, 使用\"小雅智能助\"应用查看大数据技术课程的作业任务，然后使用\"Gmail\"应用给791492854@qq.com发送消息，消息内容为该作业任务",
+    "tasks": [
+        {
+            "task": "check_course_task",
+            "attribute": {
+                "course": "大数据技术"
+            },
+            "output": null
+        },
+        {
+            "task": "0090f116-e02b-4562-a20d-b5df38be963a",
+            "attribute": {
+                "content": "大数据技术课程作业",
+                "mail": "791492854@qq.com"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0 1\n1",
+    "id": "036yg"
+}

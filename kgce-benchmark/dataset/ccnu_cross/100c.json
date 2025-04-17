@@ -1,0 +1,22 @@
+{
+  "description": "在安卓系统上, 在\"小雅智能助手\"里我的文档中新建笔记，并写入内容\"content of big data:\"，In windows,open Google Chrome and navigate to\"https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu\"(一站式服务平台) then login in,and 进入 \"DeepSeek\",询问 \"请给我一些编译原理的资料\"",
+  "tasks": [
+     {
+            "task": "xiaoya_write_document",
+            "attribute": {
+                "content": "content of big data:"
+            },
+            "output": null
+        },
+    {
+            "task": "ask_deepseek_details_huashi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu",
+                "content": "请给我一些大数据技术的资料"
+            },
+            "output": "content"
+        }
+  ],
+  "adjlist": "0 1\n1",
+  "id": "100c"
+}

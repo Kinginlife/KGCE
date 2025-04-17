@@ -1,0 +1,21 @@
+{
+    "description": "在安卓上, 使用\"小雅智能助\"应用查看大数据技术课程的作业任务，然后使用\"Tasks\"应用添加该任务",
+    "tasks": [
+        {
+            "task": "check_course_task",
+            "attribute": {
+                "course": "大数据技术"
+            },
+            "output": null
+        },
+        {
+            "task": "a3d11574-2acf-4b26-a569-a5dbc9d548af",
+            "attribute": {
+                "content": "大数据技术课程作业"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0 1\n1",
+    "id": "032xt"
+}

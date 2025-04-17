@@ -1,0 +1,14 @@
+{
+    "description": "在windows上,打开Google Chrome 并且导航到\"https://www.icourse163.org/\",然后搜索\"数据结构\"课程",
+    "tasks": [
+        {
+            "task": "check_datastructure_in_mooc",
+            "attribute": {
+                "url": "https://www.icourse163.org/"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "089w"
+}

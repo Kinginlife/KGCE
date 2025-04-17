@@ -1,0 +1,17 @@
+{
+  "Chrome": {
+    "首页": {
+      "description": "Google Chrome 浏览器的主页面，可以输入网页或搜索内容",
+      "elements": {
+        "顶部网页搜索框": {
+          "position": "页面顶部",
+          "description": "可以输入网页，输入后按下Enter键后可以进入网页"
+          },
+        "搜索框": {
+          "position": "页面中部偏上",
+          "description": "输入内容进行搜索，输入后按下Enter键可以查看搜索的内容"
+        }
+      }
+    }
+  }
+}

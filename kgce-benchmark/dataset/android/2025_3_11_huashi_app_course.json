@@ -1,0 +1,13 @@
+{
+    "description": "在安卓上的软件\"华师匣子\"中查看课程表。",
+    "tasks": [
+        {
+            "task": "huashi_app_course",
+            "attribute": {
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "2025_3_11_open_huashi_app_course"
+}

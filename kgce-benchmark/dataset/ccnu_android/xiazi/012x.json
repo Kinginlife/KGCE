@@ -1,0 +1,14 @@
+{
+    "description": "在华师匣子中写意见反馈“课程内容丰富，希望增加更多实践环节”",
+    "tasks": [
+        {
+            "task": "huashi_app_advice",
+            "attribute": {
+                "content": "课程内容丰富，希望增加更多实践环节"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "012x"
+}

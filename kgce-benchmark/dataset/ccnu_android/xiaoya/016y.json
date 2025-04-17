@@ -1,0 +1,14 @@
+{
+    "description": "在小雅中查看我的课程里的课程大数据技术",
+    "tasks": [
+        {
+            "task": "check_some_course",
+            "attribute": {
+                "course": "大数据技术"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "016y"
+}

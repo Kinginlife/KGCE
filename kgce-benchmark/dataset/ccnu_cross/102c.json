@@ -1,0 +1,23 @@
+{
+  "description": "Using the \"地图\" app on an Android device, find the city name corresponding to the postal code \"10179\" in Germany，In windows,open Google Chrome and navigate to\"https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu\"(一站式服务平台) then login in,and 进入 \"DeepSeek\",询问 \"the detail of Berlin\"",
+  "tasks": [
+      {
+            "task": "51b2463c-9904-4a32-81ba-507bfb89d61f",
+            "attribute": {
+                "number": "10179",
+                "country": "德国"
+            },
+            "output": "Berlin"
+        },
+    {
+            "task": "ask_deepseek_details_huashi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu",
+                "content": "the detail of Berlin"
+            },
+            "output": "content"
+        }
+  ],
+  "adjlist": "0 1\n1",
+  "id": "102c"
+}

@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中\"形势与政策\"课程的分组并加入分组",
+    "tasks": [
+        {
+            "task": "add-group",
+            "attribute": {
+                "course": "形势与政策"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "075y"
+}

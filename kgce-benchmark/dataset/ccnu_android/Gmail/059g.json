@@ -1,0 +1,15 @@
+{
+    "description": "在安卓上, 使用\"Gmail\" 应用，给791492854@qq.com发送消息内容为\"今天的实验已经完成\"",
+    "tasks": [
+        {
+            "task": "0090f116-e02b-4562-a20d-b5df38be963a",
+            "attribute": {
+                "content": "今天的实验已经完成",
+                "mail": "791492854@qq.com"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "059g"
+}

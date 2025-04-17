@@ -1,0 +1,14 @@
+{
+    "description": "In Android, using \"Keep Notes\" App, record \"Pre-class preview can help you better understand the classroom content!\" in a new note without title.",
+    "tasks": [
+        {
+            "task": "eb92a1e6-4c86-4d56-baac-95fc8397732e",
+            "attribute": {
+                "content": "Pre-class preview can help you better understand the classroom content!"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "031k"
+}

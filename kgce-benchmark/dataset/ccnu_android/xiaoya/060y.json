@@ -1,0 +1,14 @@
+{
+    "description": "在小雅消息中心中的通讯录查看并行计算老师的联系方式",
+    "tasks": [
+        {
+            "task": "find_contact",
+            "attribute": {
+                "course": "并行计算"
+            },
+            "output": "2014980021"
+        }
+    ],
+    "adjlist": "0",
+    "id": "060y"
+}

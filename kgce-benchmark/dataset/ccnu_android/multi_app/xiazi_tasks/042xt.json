@@ -1,0 +1,21 @@
+{
+    "description": "在安卓上, 使用\"华师匣子\"访问常用网站研究生院，然后使用\"Tasks\"应用添加一个新任务，任务文本为研究生院通知内容",
+    "tasks": [
+        {
+            "task": "huashi_app_site",
+            "attribute": {
+                "site": "华中师范大学研究生院"
+            },
+            "output": null
+        },
+        {
+            "task": "a3d11574-2acf-4b26-a569-a5dbc9d548af",
+            "attribute": {
+                "content": "教务系统通知内容"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0 1\n1",
+    "id": "042xt"
+}

@@ -1,0 +1,15 @@
+{
+    "description": "在安卓上, 使用\"Calendar\" 应用，在2025年3月15日整天添加一个新事件文本为\"大数据技术课程考试\"",
+    "tasks": [
+        {
+            "task": "a3d11574-2acf-4b26-a569-a5dbc9d548ac",
+            "attribute": {
+                "content": "大数据技术课程考试",
+                "date": "2025-03-15"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "020ca"
+}

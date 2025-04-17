@@ -1,0 +1,21 @@
+{
+  "description": "在安卓上, 使用\"Keep 记事\" 应用，记录\"the first task waited to be finished:\"并记录笔记标题为\"the tasks to be finished\"，在windows上,打开Google Chrome 并且导航到\"https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu\"(一站式服务平台)并且\"login in\",然后进入\"任务中心\"中查看待办任务",
+  "tasks": [
+      {
+            "task": "eb92a1e6-4c86-4d56-baac-95fc8397732e",
+            "attribute": {
+                "content": "the first task waited to be finished:"
+            },
+            "output": null
+        },
+     {
+            "task": "check_task_in_yizhanshi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu"
+            },
+            "output": null
+        }
+  ],
+  "adjlist": "0 1\n1",
+  "id": "104c"
+}

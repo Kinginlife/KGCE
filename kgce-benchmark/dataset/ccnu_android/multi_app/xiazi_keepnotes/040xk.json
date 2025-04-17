@@ -1,0 +1,19 @@
+{
+    "description": "在安卓上, 使用\"华师匣子\"应用查看课程表，然后使用\"Keep Notes\"应用记录课程表内容",
+    "tasks": [
+        {
+            "task": "huashi_app_course",
+            "attribute": {},
+            "output": null
+        },
+        {
+            "task": "eb92a1e6-4c86-4d56-baac-95fc8397732e",
+            "attribute": {
+                "content": "华师匣子课程表内容"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0 1\n1",
+    "id": "040xk"
+}

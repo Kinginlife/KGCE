@@ -1,0 +1,21 @@
+{
+    "description": "在安卓上, 使用\"小雅智能助\"应用查看学生评教，然后使用\"Keep Notes\"应用记录评教内容",
+    "tasks": [
+        {
+            "task": "course_tool-students evaluate",
+            "attribute": {
+                "course": "大数据技术"
+            },
+            "output": null
+        },
+        {
+            "task": "eb92a1e6-4c86-4d56-baac-95fc8397732e",
+            "attribute": {
+                "content": "大数据技术课程学生评教内容"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0 1\n1",
+    "id": "043yk"
+}

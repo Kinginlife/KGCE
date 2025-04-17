@@ -1,0 +1,14 @@
+{
+    "description": "在\"小雅智能助\"中进入\"形势与政策\"课程的学生评教",
+    "tasks": [
+        {
+            "task": "course_tool-students evaluate",
+            "attribute": {
+                "course": "形势与政策"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "029y"
+}

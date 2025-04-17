@@ -1,0 +1,14 @@
+{
+    "description": "在windows上,打开Google Chrome导航到\"https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu\"(一站式服务平台） 并且\"login in\",然后进入华师主页",
+    "tasks": [
+        {
+            "task": "check_ccnuhomepage_in_yizhanshi",
+            "attribute": {
+                "url": "https://one.ccnu.edu.cn/ccnuNew/index.html#/workstu"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "092w"
+}

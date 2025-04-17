@@ -1,0 +1,12 @@
+{
+    "description": "打开软件\"华师匣子\"，点击\"课程表\"，然后点击右上角的图标\"加号\"，点击添加新课程，输入操作系统。",
+    "tasks": [
+        {
+            "task": "huashi_app_add_course",
+            "attribute": {"course": "操作系统"},
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "2025_3_13_huashi_app_add_course"
+}

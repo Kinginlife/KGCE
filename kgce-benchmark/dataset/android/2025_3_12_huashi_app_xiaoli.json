@@ -1,0 +1,13 @@
+{
+    "description": "在\"华师匣子\"中查看校历。",
+    "tasks": [
+        {
+            "task": "huashi_app_xiaoli",
+            "attribute": {
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "2025_3_12_huashi_app_xiaoli"
+}

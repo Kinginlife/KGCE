@@ -1,0 +1,12 @@
+{
+    "description": "在华师匣子中查看课程表",
+    "tasks": [
+        {
+            "task": "huashi_app_course",
+            "attribute": {},
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "009x"
+}

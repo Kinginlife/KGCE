@@ -1,0 +1,21 @@
+{
+  "description": "在安卓系统上, 在华师匣子中添加新课程人工智能导论，在windows上,打开Google Chrome 并且导航到\"https://www.icourse163.org/\",然后搜索\"人工智能导论\"课程",
+  "tasks": [
+      {
+            "task": "huashi_app_add_course",
+            "attribute": {
+                "course": "人工智能导论"
+            },
+            "output": null
+        },
+     {
+            "task": "check_datastructure_in_mooc",
+            "attribute": {
+                "url": "https://www.icourse163.org/"
+            },
+            "output": null
+        }
+  ],
+  "adjlist": "0 1\n1",
+  "id": "103c"
+}

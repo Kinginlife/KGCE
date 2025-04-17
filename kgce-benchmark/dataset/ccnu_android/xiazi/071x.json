@@ -1,0 +1,14 @@
+{
+    "description": "在华师匣子中添加新课程线性代数",
+    "tasks": [
+        {
+            "task": "huashi_app_add_course",
+            "attribute": {
+                "course": "线性代数"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "071x"
+}

@@ -1,0 +1,15 @@
+{
+    "description": "In Android, using \"Gmail\" App, send \"abcdcly@qq.com\" a message \"Student Liu, you need to submit your homework before Sunday!\"",
+    "tasks": [
+        {
+            "task": "0090f116-e02b-4562-a20d-b5df38be963a",
+            "attribute": {
+                "content": "Student Liu, you need to submit your homework before Sunday!",
+                "mail": "abcdcly@qq.com"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "030g"
+}

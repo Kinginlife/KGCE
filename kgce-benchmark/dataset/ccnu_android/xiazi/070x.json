@@ -1,0 +1,14 @@
+{
+    "description": "在华师匣子中写意见反馈“好多模块都使用不了”",
+    "tasks": [
+        {
+            "task": "huashi_app_advice",
+            "attribute": {
+                "content": "好多模块都使用不了"
+            },
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "070x"
+}

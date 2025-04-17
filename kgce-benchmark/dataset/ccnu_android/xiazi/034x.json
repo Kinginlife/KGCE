@@ -1,0 +1,12 @@
+{
+    "description": "在安卓上，使用软件\"华师匣子\"打开网站\"研究生院\"。",
+    "tasks": [
+        {
+            "task": "huashi_app_site",
+            "attribute": {"site":"华中师范大学研究生院"},
+            "output": null
+        }
+    ],
+    "adjlist": "0",
+    "id": "034x"
+}
