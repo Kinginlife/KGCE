@@ -2,21 +2,18 @@
 
 
 ## Overview
-KGCE is a framework for building LLM agent benchmark environments in a Python-centric way.
+KGCE is a Python - centric framework designed to construct benchmark environments for Large Language Model (LLM) agents, with a specific focus on cross - platform educational agent benchmarking, integrated with multimodal language models.
 
 #### Key Features
 
-🌐 Cross-platform and Multi-environment
-* Create build agent environments that support various deployment options including in-memory, Docker-hosted, virtual machines, or distributed physical machines, provided they are accessible via Python functions.
-* Let the agent access all the environments in the same time through a unified interface.
+🌐 Cross - Platform Educational Task Support
+* Facilitates cross - platform execution (Windows, Android, educational tools) for synchronized educational workflow tasks.
 
-⚙ ️Easy-to-use Configuration
-* Add a new action by simply adding a `@action` decorator on a Python function.
-* Define the environment by integrating several actions together.
+⚙ ️Knowledge - Augmented Architecture
+* Integrates domain-specific knowledge via a structured JSON base, handling closed-domain educational software (e.g., XiaoYa Intelligent Assistant) for accurate interactions.
 
-📐 Novel Benchmarking Suite
-* Define tasks and the corresponding evaluators in an intuitive Python-native way.
-* Introduce a novel graph evaluator method providing fine-grained metrics.
+📐 Dual - Graph Evaluation
+* Employs a Dual-Graph Evaluator to capture educational criteria with fine-grained metrics for precise task assessment.
 
 ## Installation
 
