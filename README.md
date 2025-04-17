@@ -6,13 +6,13 @@ KGCE is a Python - centric framework designed to construct benchmark environment
 
 #### Key Features
 
-🌐 Cross - Platform Educational Task Support
-* Facilitates cross - platform execution (Windows, Android, educational tools) for synchronized educational workflow tasks.
+🌐 Cross-Platform Educational Task Support
+* Facilitates cross-platform execution (Windows, Android, educational tools) for synchronized educational workflow tasks.
 
 ⚙ ️Knowledge - Augmented Architecture
 * Integrates domain-specific knowledge via a structured JSON base, handling closed-domain educational software (e.g., XiaoYa Intelligent Assistant) for accurate interactions.
 
-📐 Dual - Graph Evaluation
+📐 Dual-Graph Evaluation
 * Employs a Dual-Graph Evaluator to capture educational criteria with fine-grained metrics for precise task assessment.
 
 ## Installation
@@ -31,7 +31,7 @@ All datasets and experiment code are in [kgce-benchmark](./kgce-benchmark/) dire
 
 ## Examples
 
-#### Run template environment with openai agent
+#### Run template environment with OpenAI agent
 
 ```bash
 export OPENAI_API_KEY=<your api key>
