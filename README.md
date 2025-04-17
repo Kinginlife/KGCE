@@ -35,8 +35,6 @@ poetry run python -m kgce-benchmark.main --model qwenvl --model-base-url https:/
 
 ## Demo Video
 
-[![demo_video]([KGCE1.mp4](https://github.com/Kinginlife/KGCE/raw/refs/heads/main/KGCE1.mp4))]
-
 https://private-user-images.githubusercontent.com/134140488/434705359-7f5739e4-ac47-4a79-b097-fc7883bb88d5
 
 
