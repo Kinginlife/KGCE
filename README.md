@@ -45,3 +45,8 @@ python examples/multi_env.py
 ## Demo Video
 
 [![demo_video]([KGCE1.mp4](https://github.com/Kinginlife/KGCE/raw/refs/heads/main/KGCE1.mp4))]
+
+https://github.com/Kinginlife/KGCE/raw/refs/heads/main/KGCE1.mp4
+https://github.com/user-attachments/assets/058dae29-4add-417b-99fe-07db95a90e52
+
+
