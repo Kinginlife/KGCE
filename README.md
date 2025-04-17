@@ -29,15 +29,6 @@ pip install requirements.txt
 
 All datasets and experiment code are in [kgce-benchmark](./kgce-benchmark/) directory. 
 
-## Examples
-
-#### Run template environment with OpenAI agent
-
-```bash
-export OPENAI_API_KEY=<your api key>
-python examples/single_env.py
-python examples/multi_env.py
-```
 
 ## Demo Video
 
