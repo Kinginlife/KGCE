@@ -1,21 +1,6 @@
 # KGCE
-this is KGCE project
 
-# 🦀 CRAB: Cross-platform Agent Benchmark for Multimodal Embodied Language Model Agents
-
-[![arXiv][arxiv-image]][arxiv-url]
-[![Slack][slack-image]][slack-url]
-[![Discord][discord-image]][discord-url]
-[![Wechat][wechat-image]][wechat-url]
-[![Twitter][twitter-image]][twitter-url]
-
-<p align="center">
-  <a href="https://camel-ai.github.io/crab/">Documentation</a> |
-  <a href="https://crab.camel-ai.org/">Website & Demos</a> |
-  <a href="https://www.camel-ai.org/post/crab">Blog</a> |
-  <a href="https://dandansamax.github.io/posts/crab-paper/">Chinese Blog</a> |
-  <a href="https://www.camel-ai.org/">CAMEL-AI</a>
-</p>
+# KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/camel-ai/crab/main/assets/CRAB_logo1.png' width=800>
