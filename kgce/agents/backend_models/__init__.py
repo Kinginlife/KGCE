@@ -48,6 +48,8 @@ class BackendModelConfig(BaseModel):
 
     app_id: str | None = None
 
+    api_endpoint: str | None=None
+
 
 def create_backend_model(model_config: BackendModelConfig) -> BackendModel:
     if model_config.model_class == "OpenAIModel":

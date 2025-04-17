@@ -4,18 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25ef8514-cbcd-463e-8730-e526197a67aa" name="Changes" comment="" />
+    <list default="true" id="25ef8514-cbcd-463e-8730-e526197a67aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/024cl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/025ca_g.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/026ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/027ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/028t.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/029ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/030g.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/031k.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_11_huashi_app_course.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_11_huashi_app_grade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_11_xiaoya_XX_course.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_11_xiaoya_write_document.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_12_huashi_app_xiaoli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_13_huashi_app_add_course.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_13_huashi_app_advice.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_13_huashi_app_classroom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_13_huashi_app_site.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/2025_3_17_huashi_app_course_grade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/7891ceab-7965-4ddb-a0fc-15740c9a4e45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/android/two_subtasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/cross/095c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/cross/2025_3_17_cross_xiaoya_huashi_app_advice.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/cross/2025_3_17_cross_xiaoya_huashi_app_grade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025-3-14-yizhanshi-ask-deepseek.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025-3-14-yizhanshi-message.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025-3-14-yizhanshi-task.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025_3_14_chrome_xiaoya_course_bianyiyuanli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025_3_14_chrome_xiaoya_course_ruanjiangongcheng.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025_3_14_microsoftedge_search_image.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025_3_16_chrome_xiaoya_ai_ask.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025_3_16_chrome_xiaoya_check_document.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025_3_16_chrome_xiaoya_check_tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce-benchmark/dataset/windows/2025_3_16_chrome_xiaoya_write_document.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce/actions/crab_actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/kgce/actions/kgce_actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce/agents/backend_models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/kgce/agents/backend_models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce/agents/backend_models/gemini_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/kgce/agents/backend_models/gemini_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kgce/core/graph_evaluator.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2vpt4XqB3NZXCfyMSzCzRoul3k8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +68,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744853653131</updated>
       <workItem from="1744853656075" duration="2164000" />
+      <workItem from="1744858139030" duration="1332000" />
     </task>
     <servers />
   </component>

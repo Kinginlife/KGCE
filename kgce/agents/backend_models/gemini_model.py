@@ -31,10 +31,11 @@ class GeminiModel(BackendModel):
         self,
         model: str,
         api_key:str,
+        api_endpoint: str,
         parameters: dict[str, Any] | None = None,
         history_messages_len: int = 0,
         tool_call_required: bool = True,
-        api_endpoint:str
+
     ) -> None:
         if gemini_model_enable is False:
             raise ImportError("Please install google.generativeai to use GeminiModel")
