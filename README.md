@@ -44,4 +44,4 @@ python examples/multi_env.py
 
 ## Demo Video
 
-[![demo_video](KGCE1.mp4)]
+[![demo_video]([KGCE1.mp4](https://github.com/Kinginlife/KGCE/raw/refs/heads/main/KGCE1.mp4))]
