@@ -1,5 +1,5 @@
 # KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models
-
+Ours work has been accepted by SMC (CCF-C)!
 
 ## Overview
 KGCE is a Python - centric framework designed to construct benchmark environments for Large Language Model (LLM) agents, with a specific focus on cross - platform educational agent benchmarking, integrated with multimodal language models.
